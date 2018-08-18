@@ -75,6 +75,7 @@ The final model I used was the one published from Nvidia.  Discussion about this
 
 #### 3. Creation of the Training Set & Training Process
 The provided training images had images captured from 3 cameras:
+
 ![alt text][image2]
 ![alt text][image1]
 ![alt text][image3]
